@@ -1,0 +1,62 @@
+ [
+    {
+      "id": 1,
+      "body": "sunt aut facere repellat provident occaecati excepturi optio reprehenderit",
+      "sender": "Leanne",
+      "date":"31.01.2021"
+    },
+    {
+      "id": 2,
+      "body": "qui est esse",
+      "sender": "Ervin",
+      "date":"31.01.2021"
+    },
+    {
+      "id": 3,
+      "body": "ea molestias quasi exercitationem repellat qui ipsa sit aut",
+      "sender": "Clementine",
+      "date":"30.01.2021"
+    },
+    {
+      "id": 4,
+      "body": "eum et est occaecati",
+      "sender": "Patricia",
+      "date":"31.01.2021"
+    },
+    {
+      "id": 5,
+      "body": "nesciunt quas odio",
+      "sender": "Chelsey",
+      "date":"29.01.2021"
+    },
+    {
+      "id": 6,
+      "body": "dolorem eum magni eos aperiam quia",
+      "sender": "Dennis",
+      "date":"31.01.2021"
+    },
+    {
+      "id": 7,
+      "body": "magnam facilis autem",
+      "sender": "Kurtis",
+      "date":"27.01.2021"
+    },
+    {
+      "id": 8,
+      "body": "dolorem dolore est ipsam",
+      "sender": "Nicholas",
+      "date":"26.01.2021"
+    },
+    {
+      "id": 9,
+      "body": "nesciunt iure omnis dolorem tempora et accusantium",
+      "sender": "Glenna",
+      "date":"15.01.2021"
+    },
+    {
+      "id": 10,
+      "body": "optio molestias id quia eum",
+      "sender": "Clementina",
+      "date":"10.01.2021"
+    }
+  ]
